@@ -1,0 +1,20 @@
+name: gis
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - geopandas
+  - mplleaflet
+  - osmnx
+  - geojson
+  - matplotlib
+  - contextily
+  - mapclassify
+  - folium
+  - geoplot
+  - rasterio
+  - pysal
+  - rasterstats
+prefix: /home/flycher/anaconda3/envs/gis
+
