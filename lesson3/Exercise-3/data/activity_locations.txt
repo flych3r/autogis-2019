@@ -1,3 +1,0 @@
-id;place;addr
-1;home;Kytkintie 33, Tattarisuo, Helsinki, Finland
-2;work;Pohjoisesplanadi 68, Uusimaa, Helsinki, Finland

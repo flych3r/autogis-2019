@@ -1,7 +1,0 @@
-id;name;address
-6188896;Itis;Itis shopping centre, Itäkatu, Itäkeskus, Vartiokylä, Helsínquia, Helsinki sub-region, Uusimaa, Mainland Finland
-289767497;Forum;Forum, Mannerheimintie, City center, Kluuvi, Southern major district, Helsínquia, Helsinki sub-region, Uusimaa, Mainland Finland
-280210331;Ison Omenan;Ison Omenan kirjasto, Suomenlahdentie, Nuottaniemi, Piispansilta, Espoo, Helsinki sub-region, Uusimaa, Mainland Finland
-7752187;Sello;Sello Shopping center, Linnatullinkatu, Etelä-Leppävaara, Leppävaara, Suur-Leppävaara, Espoo, Helsinki sub-region, Uusimaa, Mainland Finland
-626938281;REDI;Redi, Hermannin rantatie, Kalasatama, Sörnäinen, Helsínquia, Helsinki sub-region, Uusimaa, Mainland Finland
-348149445;Jumbo;Mall of Tripla, Veturitie, Keski-Pasila, Pasila, Helsínquia, Helsinki sub-region, Uusimaa, Mainland Finland
